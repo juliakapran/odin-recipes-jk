@@ -1,6 +1,6 @@
 Project Odin PROJECT 1: Recipes Website
 
-Purpose: 
+Goals: 
 - Demonstrate understanding of basic HTML code features
     * Boilerplate
     * Basic elements: <p> <a> <img> <strong> <em>
@@ -9,4 +9,6 @@ Purpose:
     * pages directory
     * images directory
     * General organization
-
+- Demonstrate attention to detail in git commits and commit messages
+    * commit frequency
+    * using docs, feat, fix + body

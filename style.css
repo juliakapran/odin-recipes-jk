@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    width: 400px;
+    color: pink;
+    margin:30px auto;
+}
+ul {
+    width:400px;
+    display: flex;
+
+    margin:auto;
+    margin-top:20px;
+    list-style: none;
+}
+
+li {
+    width: 100px;
+    background-color: pink;
+    margin: auto 10px auto 0px;
+    padding:10px;
+}
+
+.first {
+    margin-left: -10px;
+}

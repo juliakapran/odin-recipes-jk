@@ -1,0 +1,38 @@
+body {
+    width: min(100%,600px);
+    margin: auto;
+}
+
+h1, h2, h3 {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    text-align: center;
+    background-color: bisque;
+    padding:10px;
+    color:rgb(238, 114, 6);
+}
+img {
+    display: block;
+    margin: 30px auto auto auto;
+    padding: 20px;
+    background-color: bisque;
+}
+.reclink {
+    width: 250px;
+    text-align: center;
+    margin: 10px auto 10px auto;
+    padding: 5px;
+    background-color: bisque;
+}
+.time {
+    display: flex;
+    list-style: none;
+    margin:auto;
+    padding:5px;
+}
+.instruct {
+    background-color: bisque;
+    margin:0px;
+    padding-bottom:20px;
+    padding-right:20px;
+}
